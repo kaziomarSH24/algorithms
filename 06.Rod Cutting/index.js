@@ -10,4 +10,8 @@ const n = prices.length;
 }
 
 const prices = [5, 8, 10, 15, 18];
+console.log("                                    ");
+console.log('===============================================');
 console.log('Maximum Profit: ',rodCutting(prices));
+console.log('===============================================');
+console.log("                                    ");
